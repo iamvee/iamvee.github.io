@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/iamv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iamv.ir
+  * I am iamv (https://keybase.io/iamv) on keybase.
+  * I have a public key with fingerprint 344F 027D 87AC A131 FBAE  8E71 2646 ED96 8A5E 34DC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014537bf0ba190d1598c32d96c6b39921975a40d567340aaf67356b304cba9f7770a",
+      "fingerprint": "344f027d87aca131fbae8e712646ed968a5e34dc",
+      "host": "keybase.io",
+      "key_id": "2646ed968a5e34dc",
+      "kid": "01014537bf0ba190d1598c32d96c6b39921975a40d567340aaf67356b304cba9f7770a",
+      "uid": "d5cb19230744973bdcc1ab16721b3c19",
+      "username": "iamv"
+    },
+    "service": {
+      "hostname": "iamv.ir",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1547028680,
+  "expire_in": 157680000,
+  "prev": "7adf0287409468c705064b057948b230f82c6656d027c2f52a2e8021ec54880e",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJdSBRRFF7LtMwyiKgHJZjtV9TuzNw7d2YtyCB6qAiJgkxZ7ty5o0O6
+s82Oa5v041YUYWVkUr6EaX8PkRVEYaQbBUs9RtRaZJGoSZIgpfZD3ZGCHnrsvhzu
+d77vu+ecex7Nme7LSmtfGsj+0FUYT3uaOFnrK0fJZL2g20ZMCNQLu9hUYNUGi7jB
+XZYhBAQgAhEiGesm0ImoAUNEmkplydAUquiypkmihhGBwEAKliEgxOQR8RSAVCea
+iTEGRCgQTCtUyZywY4VcbitDaAIJGyomlIiyaOqEqQyLkgIVxr1VgpgMDcqFVXbE
+U/DidBJhRZbNMX4JTpX3D/5/rrt2ys5AVBc1SQYYQg3LukGpSHRRwZKoy1TUPGKE
+OSFSwzjbIjVRYV+BwJGoRZk3VK+Lv7JFlsMlYcd2bWpXc7DKdcORgCdyY2GPVcf0
+4G99ULdCBh8fV0SZE7HskBAQOZO6lmcoIoiBpCoqKBDYnrDlsKDlMRDmED/eOyzK
+LTEx+NBVDIEGFZVigIACdYCwBlWd92aqElUUpBj8Z6hkIolITAWSyCiCqgqY4HW0
+O2QLAYWXSSq5ZcSqDBG31mHCvoc95em+tCxfxoxp3lr5smbN+7Nsi/Znfs9Kfq7O
+RxVtxZtL58qxzYL/0vrVJctKmr/eSTQaM8/sWP7qoDv4JZpW5FZVdLztqNm77SfY
+tuB8TsemdRO9Jb7u+OmBplP3ycnxlvTi4d7jsWeJ1oz5ed1bvvkaU1ubrzrDa/bn
+PO472/OywSgrPlg3OeY/TKUHT+bvaQy3ps4lnr+L5671ZxfO3pmZXN6y6sKGgdKz
+r/t/3Fx27cinTvkEajg2mnrfsCH7dnPQjb9YDMfq69qblmiFtH30snPJnUgtftV5
+6NbdIaOzbKT0QNNYtGvl0fGMG333Uo/zneREbsR5szEnb+Xkwus/Vm3vXzFS9bHv
+inP1dJtfbcl7Njh08ecvAz8+Zw==
+=IAFK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iamv
+
+==================================================================
